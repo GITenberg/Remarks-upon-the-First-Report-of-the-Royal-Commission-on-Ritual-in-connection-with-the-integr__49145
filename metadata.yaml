@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Remarks upon the First Report of the Royal Commission on Ritual in connection
   with the integrity of the Book of Common Prayer
 
